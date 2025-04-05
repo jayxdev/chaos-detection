@@ -1,0 +1,23 @@
+html, body{
+	width: 100%;
+	height: 100%;
+	background-color: #ffffff;
+}
+
+body{
+	font-family: "Lucida Grande", Verdana, Arial, sans-serif;
+//	font-size: 12px;
+}
+
+#header{
+	 color: white;
+}
+
+div#footer{
+	position: absolute;
+	bottom: 20px;
+	left: 50px;
+	right: 50px;
+	height:30ps;
+	border-top: 1px solid #ccc;
+}
